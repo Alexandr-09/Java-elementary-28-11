@@ -8,8 +8,8 @@ public class PersonTest {
         person1.setAge(29);
 
 
-        System.out.println(person1.setName();
-        System.out.println(person1.getAge();
+        System.out.println(person1.setName());
+        System.out.println(person1.getAge());
 
 
         Person person2 = person1;
@@ -19,7 +19,7 @@ public class PersonTest {
 
     public static void changePerson(Person person) {
         person.setName(person.getName() + " Changed ");
-        person.setAge(person.getAge() + 100;
+        person.setAge(person.getAge() + 100);
 
 
     }

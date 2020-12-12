@@ -34,4 +34,7 @@ public class Person {
     }
 
 
+    public boolean setName() {
+        return false;
+    }
 }
