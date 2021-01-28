@@ -23,7 +23,7 @@ public class DogsTest {
         System.out.println(" Другая собака ");
         DogPrint(dog2);
         System.out.println();
-        compareDog();
+
 
 
     }
